@@ -98,3 +98,18 @@ nav{
     height: 60vh;
     filter: drop-shadow(0px 5px 3px black)
 }
+@media (max-width: 768px){
+    .logo-container, .cart{
+        display: none;
+    }
+    .presentation{
+        display: block;
+        text-align: center;
+    }
+    .cta-add{
+        margin: 30px 0px 0px 0px;
+    }
+    .cover img{
+        width: 100%;
+    }
+} 
