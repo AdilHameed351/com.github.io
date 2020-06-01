@@ -110,6 +110,7 @@ nav{
         margin: 30px 0px 0px 0px;
     }
     .cover img{
-        width: 100%;
+        width: 250px;
+        height: 250px;
     }
 } 
